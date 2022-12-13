@@ -1,0 +1,1 @@
+# Average-of-UBC-professors-salaries
